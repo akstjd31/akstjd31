@@ -9,19 +9,24 @@ I am planning to participate in various competitions for my dream.
 =====================
 |학점|구분|과목|
 |------|---|---|
-|3학점|전공|웹 프로그래밍|
-|3학점|전공|인공지능|
-|3학점|전공|가상현실 및 기초|
-|3학점|전공|신호 및 시스템|
-|2학점|전공|프로그래밍 스튜디오|
-|3학점|교양|매스미디어와 현대사회|
+|3학점|전공|시스템프로그래밍|
+|3학점|전공|게임프로그래밍|
+|3학점|전공|오픈소스하드웨어응용|
+|3학점|전공|머신러닝|
+|3학점|전공|SW창업전략과펀딩|
+|1학점|전공|오디세이세미나3|
+
+🏆 수상경력 🏆
+=====================
+· 2023 SW Week Coding Festival 동상
+· 2023 정보과학대학 학술제 금상
 
 자격증
 =====================
 * 문서실무사 1급, ADSP(데이터분석준전문가)
 
 
-<h3> 🛠 Tech Stack 🛠 </h3>
+<h3> 🛠 기술 🛠 </h3>
 <p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white">
@@ -33,6 +38,7 @@ I am planning to participate in various competitions for my dream.
   <img src="https://github-readme-stats.vercel.app/api?username=akstjd31&theme=vue&show_icons=true"/></a>
 </p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akstjd31)](https://solved.ac/akstjd31/)
 
 <!---
 akstjd31/akstjd31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
