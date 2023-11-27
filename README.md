@@ -18,7 +18,8 @@ I am planning to participate in various competitions for my dream.
 
 🏆 수상경력 🏆
 =====================
-· 2023 SW Week Coding Festival 동상
+
+· 2023 SW Week Coding Festival 동상<br>
 · 2023 정보과학대학 학술제 금상
 
 자격증
