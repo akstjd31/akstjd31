@@ -39,7 +39,7 @@ I am planning to participate in various competitions for my dream.
   <img src="https://github-readme-stats.vercel.app/api?username=akstjd31&theme=vue&show_icons=true"/></a>
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akstjd31)](https://solved.ac/akstjd31/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akstjd31)](https://solved.ac/akstjd31/)
 
 <!---
 akstjd31/akstjd31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
