@@ -30,9 +30,13 @@ I am planning to participate in various competitions for my dream.
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white">
 </p>
 
-<p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=akstjd31&theme=vue&show_icons=true"/></a>
+<p style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=akstjd31&theme=vue&show_icons=true" alt="GitHub Stats" style="margin-right: 10px; height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akstjd31&size_weight=0.5&count_weight=0.5" alt="Top Languages" style="height: 200px;"/>
 </p>
+
+
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akstjd31)](https://solved.ac/akstjd31/)
 
