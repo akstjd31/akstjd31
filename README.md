@@ -7,14 +7,6 @@ I am planning to participate in various competitions for my dream.
 
 ---
 
-## 📚 수강중인 강좌
-
-| 학점 | 구분 | 과목 |
-|------|------|------|
-|      |      |      |
-
----
-
 ## 🏆 수상경력
 
 - **2023 SW Week Coding Festival** 동상
