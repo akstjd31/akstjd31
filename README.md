@@ -18,6 +18,7 @@ I am planning to participate in various competitions for my dream.
 
 - 문서실무사 1급
 - ADSP(데이터분석준전문가)
+- 정보처리기사 (실기 준비 중 ⏳)
 
 ---
 
